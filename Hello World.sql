@@ -1,0 +1,1 @@
+SELECT * FROM helloworld WHERE phrase = "Hello, World!";
